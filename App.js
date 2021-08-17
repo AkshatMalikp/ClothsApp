@@ -1,7 +1,7 @@
 import { StatusBar as ExpoStatusBar } from "expo-status-bar";
 import React from "react";
 import { ThemeProvider } from "styled-components/native";
-import { RestaurantsScreen } from "./src/features/restaurants/screens/restaurants.screen";
+import { ClothsScreen } from "./src/features/Cloths/screens/Cloths.screen";
 import { theme } from "./src/infrastructure/theme";
 import { useFonts as useOswald, Oswald_400Regular } from '@expo-google-fonts/oswald';
 import { useFonts as useLato, Lato_400Regular } from "@expo-google-fonts/lato";
@@ -20,7 +20,7 @@ export default function App() {
   return (
     <>
       <ThemeProvider theme={theme}>
-        <RestaurantsScreen />
+        <ClothsScreen />
       </ThemeProvider>
       <ExpoStatusBar style="auto" />
     </>
