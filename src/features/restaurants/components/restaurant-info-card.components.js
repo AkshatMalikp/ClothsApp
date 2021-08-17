@@ -1,10 +1,11 @@
 import React from "react";
-import { Text, View,Image } from 'react-native';
+import { Text, View, Image } from 'react-native';
 import { Card } from "react-native-paper";
 import styled from "styled-components";
 import { SvgXml } from "react-native-svg";
 import star from "../../../../assets/star";
 import open from '../../../../assets/open';
+import { Spacer } from "../../../components/spacer/spacer.component";
 const ClothCard = styled(Card)`
   background-color: #86c5da;
 `;
@@ -46,7 +47,7 @@ const Open = styled(SvgXml)`
 export const RestaurantsInfoCard = ({ restaurant = {} }) => {
   const {
     name = "Some Shop",
-    icon= "https://cdn2.iconfinder.com/data/icons/men-clothes-lineal/512/suit-512.png",
+    icon = "https://cdn2.iconfinder.com/data/icons/men-clothes-lineal/512/suit-512.png",
     photos = [
       "https://image.freepik.com/free-vector/ornamental-fashion-logo_23-2148916367.jpg",
     ],
@@ -69,15 +70,17 @@ export const RestaurantsInfoCard = ({ restaurant = {} }) => {
           </Rating>
           <SectionEnd>
             {isClosed && (
-              <Text variant="label" style={{ color: "red" , fontSize : 15 }}>
+              <Text variant="label" style={{ color: "red", fontSize: 15 }}>
                 CLOSED! RIGHT NOW
               </Text>
             )}
-            <View style={{ paddingLeft : 16}} />
-            {isopened && <Open xml={open} width={20} height={20} />}
-            
-            <View style={{ paddingLeft : 16}} />
-            <Image style={{ width: 20, height: 20 }} source={{ uri: icon }} />
+            <Spacer position="left" size="large">
+              {isopened && <Open xml={open} width={20} height={20} />}
+            </Spacer>
+
+            <Spacer position="left" size="large">
+              <Image style={{ width: 20, height: 20 }} source={{ uri: icon }} />
+            </Spacer>
           </SectionEnd>
         </Section>
         <Address>{address}</Address>
