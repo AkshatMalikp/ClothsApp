@@ -1,0 +1,217 @@
+{
+    "html_attributions": [],
+    "next_page_token": "some token",
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 28.70361,
+            "lng": 70.101622
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.7050214302915,
+              "lng": 70.1002089697085
+            },
+            "southwest": {
+              "lat": 28.7023234697085,
+              "lng": 70.1029069302915
+            }
+          }
+        },
+        "ix": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/clothshop-71.png",
+        "name": "Zuni Café",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3672,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 6786
+          }
+        ],
+        "place_id": "some place id 41",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 3,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "casual",
+          "professional",
+          "clothshop",
+          "cloths",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1675,
+        "vicinity": "1658 Market Street, San Francisco"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 28.7829132,
+            "lng": 70.1088995
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.78103678029149,
+              "lng": 70.4176706197085
+            },
+            "southwest": {
+              "lat": 28.78153881970849,
+              "lng": 70.1003685802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/clothshop-71.png",
+        "name": "Brenda's French Soul cloths",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2322,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 4128
+          }
+        ],
+        "place_id": "some place id 10",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "clothshop",
+          "cloths",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4404,
+        "vicinity": "670 Polk Street, San Francisco"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 28.7010938,
+            "lng": 70.4126502
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.7022841302915,
+              "lng": 70.4111029697085
+            },
+            "southwest": {
+              "lat": 28.7696761697085,
+              "lng": 70.4141209302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/professional-71.png",
+        "name": "DNA Lounge",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 576,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 1024
+          }
+        ],
+        "place_id": "some place id 43",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "cheap",
+          "casual",
+          "professional",
+          "clothshop",
+          "cloths",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1284,
+        "vicinity": "285 11th Street, San Francisco"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 28.70710419999999,
+            "lng": 70.1027403
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 28.7083638802915,
+              "lng": 70.1015109197085
+            },
+            "southwest": {
+              "lat": 28.7056659197085,
+              "lng": 70.1010408802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/clothshop-71.png",
+        "name": "Absinthe Brasserie & professional",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 468,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 960
+          }
+        ],
+        "place_id": "some place id 44",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 3,
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "professional",
+          "clothshop",
+          "cloths",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1405,
+        "vicinity": "398 Hayes Street, San Francisco"
+      }
+    ],
+    "status" : "OK"
+}

@@ -1,0 +1,208 @@
+{
+    "html_attributions": [],
+    "next_page_token": "some token",
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 18.5265623,
+            "lng": 73.854578
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 18.52794098029149,
+              "lng": 73.85325551970848
+            },
+            "southwest": {
+              "lat": 18.5252180197085,
+              "lng": 73.85595348029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/casual-71.png",
+        "name": "Novotel Toronto Centre",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4910,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 6576
+          }
+        ],
+        "place_id": "some place id 61",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "rating": 4.2,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "casual",
+          "clothshop",
+          "cloths",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1822,
+        "vicinity": "45 The Esplanade, Toronto"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 18.5260303,
+            "lng": 73.381388
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 18.5271657802915,
+              "lng": 73.8599530197085
+            },
+            "southwest": {
+              "lat": 18.5244678197085,
+              "lng": 73.3826509802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/casual-71.png",
+        "name": "Fairmont Royal York",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 1621
+          }
+        ],
+        "place_id": "some place id 62",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "casual",
+          "clothshop",
+          "cloths",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 8383,
+        "vicinity": "100 Front Street West, Toronto"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 18.65,
+            "lng": 73.39638889999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 18.6512747302915,
+              "lng": 73.39500986970849
+            },
+            "southwest": {
+              "lat": 18.5285767697085,
+              "lng": 73.3977078302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/casual-71.png",
+        "name": "HOTEL OCHO",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1924,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 3598
+          }
+        ],
+        "place_id": "some place id 63",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "casual",
+          "clothshop",
+          "cloths",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 502,
+        "vicinity": "195 Spadina Avenue, Toronto"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 18.52696989999999,
+            "lng": 73.3932324
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 18.52885233029149,
+              "lng": 73.3916331697085
+            },
+            "southwest": {
+              "lat": 18.52567186970849,
+              "lng": 73.3918311302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/clothshop-71.png",
+        "name": "Marquis Lounge and Bistro",
+        "photos": [
+          {
+            "height": 1500,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 2048
+          }
+        ],
+        "place_id": "some place id 52",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "clothshop",
+          "professional",
+          "cloths",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "92 Peter Street, Toronto"
+      }
+    ],
+    "status" : "OK"
+}

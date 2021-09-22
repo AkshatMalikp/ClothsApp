@@ -1,5 +1,4 @@
 import styled from "styled-components";
-
 const defaultTextStyles = (theme) => `
 font-family: ${theme.fonts.body};
 font-weight: ${theme.fontWeights.regular};

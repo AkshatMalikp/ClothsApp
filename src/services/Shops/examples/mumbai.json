@@ -1,0 +1,213 @@
+{
+    "html_attributions": [],
+    "next_page_token": "some token",
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 19.076065,
+            "lng": 72.8700732
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.07750723029149,
+              "lng": 72.6194830697085
+            },
+            "southwest": {
+              "lat": 19.07489026970849,
+              "lng": 72.8721810302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/professional-71.png",
+        "name": "Fairmont Chicago - Millennium Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1194,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 1800
+          }
+        ],
+        "place_id": "some place id 21",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 3,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "professional",
+          "clothshop",
+          "cloths",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2085,
+        "vicinity": "200 North Columbus Drive, Chicago"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 19.070768,
+            "lng": 72.876394
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.8901951302915,
+              "lng": 72.87510796970849
+            },
+            "southwest": {
+              "lat": 19.0777171697085,
+              "lng": 72.8770769302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/professional-71.png",
+        "name": "Trump International Hotel & Tower® Chicago",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2000,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 3000
+          }
+        ],
+        "place_id": "some place id 22",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "rating": 4.1,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "spa",
+          "professional",
+          "clothshop",
+          "cloths",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2874,
+        "vicinity": "401 North Wabash Avenue, Chicago"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 19.0770687,
+            "lng": 72.61948509999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.0787213802915,
+              "lng": 72.61806096970848
+            },
+            "southwest": {
+              "lat": 19.0760231997085,
+              "lng": 72.8707589302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/professional-71.png",
+        "name": "Swissotel Chicago",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 4032
+          }
+        ],
+        "place_id": "some place id 23",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "professional",
+          "clothshop",
+          "cloths",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4059,
+        "vicinity": "323 East Wacker Drive, Chicago"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 19.87156110000001,
+            "lng": 72.87728609999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 19.8729340802915,
+              "lng": 72.87602206970848
+            },
+            "southwest": {
+              "lat": 19.8702361197085,
+              "lng": 72.8787200302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/clothshop-71.png",
+        "name": "Lou Malnati's Pizzeria",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2640,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 3960
+          }
+        ],
+        "place_id": "some place id 24",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "clothshop",
+          "cloths",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 6103,
+        "vicinity": "805 South State Street, Chicago"
+      }
+    ],
+    "status" : "OK"
+}

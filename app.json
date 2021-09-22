@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Restaurantapp",
-    "slug": "Restaurantapp",
+    "name": "ClothsApp",
+    "slug": "ClothsApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
